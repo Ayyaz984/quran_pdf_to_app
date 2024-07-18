@@ -1,0 +1,1123 @@
+[
+  {
+    "title": "Juz 1",
+    "startPage": 1,
+    "endPage": 21,
+    "surahs": [
+      {
+        "surahNo": 1,
+        "titleEng": "Al- Fatiha",
+        "verses": 7,
+        "startPage": 1,
+        "endPage": 1,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 2,
+        "titleEng": "Al-Baqarah",
+        "verses": 286,
+        "startPage": 2,
+        "endPage": 49,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 2",
+    "startPage": 22,
+    "endPage": 41,
+    "surahs": []
+  },
+  {
+    "title": "Juz 3",
+    "startPage": 42,
+    "endPage": 61,
+    "surahs": [
+      {
+        "surahNo": 3,
+        "titleEng": "Ali Imran",
+        "verses": 200,
+        "startPage": 50,
+        "endPage": 76,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 4",
+    "startPage": 62,
+    "endPage": 81,
+    "surahs": [
+      {
+        "surahNo": 4,
+        "titleEng": "An- Nisa'",
+        "verses": 176,
+        "startPage": 77,
+        "endPage": 106,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 5",
+    "startPage": 82,
+    "endPage": 101,
+    "surahs": []
+  },
+  {
+    "title": "Juz 6",
+    "startPage": 102,
+    "endPage": 121,
+    "surahs": [
+      {
+        "surahNo": 5,
+        "titleEng": "Al- Ma'idah",
+        "verses": 120,
+        "startPage": 106,
+        "endPage": 127,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 7",
+    "startPage": 122,
+    "endPage": 141,
+    "surahs": [
+      {
+        "surahNo": 6,
+        "titleEng": "Al- 'An'am",
+        "verses": 165,
+        "startPage": 128,
+        "endPage": 150,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 8",
+    "startPage": 142,
+    "endPage": 161,
+    "surahs": [
+      {
+        "surahNo": 7,
+        "titleEng": "Al- A'raf",
+        "verses": 206,
+        "startPage": 151,
+        "endPage": 176,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 9",
+    "startPage": 162,
+    "endPage": 181,
+    "surahs": [
+      {
+        "surahNo": 8,
+        "titleEng": "Al- Anfal",
+        "verses": 75,
+        "startPage": 177,
+        "endPage": 186,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 10",
+    "startPage": 182,
+    "endPage": 201,
+    "surahs": [
+      {
+        "surahNo": 9,
+        "titleEng": "At- Tawbah",
+        "verses": 129,
+        "startPage": 187,
+        "endPage": 207,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 11",
+    "startPage": 202,
+    "endPage": 221,
+    "surahs": [
+      {
+        "surahNo": 10,
+        "titleEng": "Yunus",
+        "verses": 109,
+        "startPage": 208,
+        "endPage": 221,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 11,
+        "titleEng": "Hud",
+        "verses": 123,
+        "startPage": 221,
+        "endPage": 235,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 12",
+    "startPage": 222,
+    "endPage": 241,
+    "surahs": [
+      {
+        "surahNo": 12,
+        "titleEng": "Yusuf",
+        "verses": 111,
+        "startPage": 235,
+        "endPage": 248,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 13",
+    "startPage": 242,
+    "endPage": 261,
+    "surahs": [
+      {
+        "surahNo": 13,
+        "titleEng": "Ar- Ra'd",
+        "verses": 43,
+        "startPage": 249,
+        "endPage": 255,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 14,
+        "titleEng": "Ibrahim",
+        "verses": 52,
+        "startPage": 255,
+        "endPage": 261,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 14",
+    "startPage": 262,
+    "endPage": 281,
+    "surahs": [
+      {
+        "surahNo": 15,
+        "titleEng": "Al- Hijr",
+        "verses": 99,
+        "startPage": 262,
+        "endPage": 267,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 16,
+        "titleEng": "An- Nahl",
+        "verses": 128,
+        "startPage": 267,
+        "endPage": 282,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 15",
+    "startPage": 282,
+    "endPage": 301,
+    "surahs": [
+      {
+        "surahNo": 17,
+        "titleEng": "Al- Isra'",
+        "verses": 111,
+        "startPage": 282,
+        "endPage": 293,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 18,
+        "titleEng": "Al- Kahf",
+        "verses": 110,
+        "startPage": 293,
+        "endPage": 304,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 16",
+    "startPage": 302,
+    "endPage": 321,
+    "surahs": [
+      {
+        "surahNo": 19,
+        "titleEng": "Maryam",
+        "verses": 98,
+        "startPage": 305,
+        "endPage": 312,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 20,
+        "titleEng": "Taha",
+        "verses": 135,
+        "startPage": 312,
+        "endPage": 321,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 17",
+    "startPage": 322,
+    "endPage": 341,
+    "surahs": [
+      {
+        "surahNo": 21,
+        "titleEng": "Al- Anbiya",
+        "verses": 112,
+        "startPage": 322,
+        "endPage": 331,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 22,
+        "titleEng": "Al- Haj",
+        "verses": 78,
+        "startPage": 332,
+        "endPage": 341,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 18",
+    "startPage": 342,
+    "endPage": 361,
+    "surahs": [
+      {
+        "surahNo": 23,
+        "titleEng": "Al- Mu'minun",
+        "verses": 118,
+        "startPage": 342,
+        "endPage": 349,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 24,
+        "titleEng": "An- Nur",
+        "verses": 64,
+        "startPage": 350,
+        "endPage": 359,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 25,
+        "titleEng": "Al- Furqan",
+        "verses": 77,
+        "startPage": 359,
+        "endPage": 367,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 19",
+    "startPage": 362,
+    "endPage": 381,
+    "surahs": [
+      {
+        "surahNo": 26,
+        "titleEng": "Ash- Shu'ara",
+        "verses": 227,
+        "startPage": 367,
+        "endPage": 376,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 27,
+        "titleEng": "An- Naml",
+        "verses": 93,
+        "startPage": 377,
+        "endPage": 385,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 20",
+    "startPage": 382,
+    "endPage": 401,
+    "surahs": [
+      {
+        "surahNo": 28,
+        "titleEng": "Al- Qasas",
+        "verses": 88,
+        "startPage": 385,
+        "endPage": 396,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 29,
+        "titleEng": "Al- 'Ankabut",
+        "verses": 69,
+        "startPage": 396,
+        "endPage": 404,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 21",
+    "startPage": 402,
+    "endPage": 421,
+    "surahs": [
+      {
+        "surahNo": 30,
+        "titleEng": "Ar- Rum",
+        "verses": 60,
+        "startPage": 404,
+        "endPage": 410,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 31,
+        "titleEng": "Luqman",
+        "verses": 34,
+        "startPage": 411,
+        "endPage": 414,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 32,
+        "titleEng": "As- Sajdah",
+        "verses": 30,
+        "startPage": 415,
+        "endPage": 417,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 33,
+        "titleEng": "Al- Ahzab",
+        "verses": 73,
+        "startPage": 418,
+        "endPage": 427,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 22",
+    "startPage": 422,
+    "endPage": 441,
+    "surahs": [
+      {
+        "surahNo": 34,
+        "titleEng": "Saba'",
+        "verses": 54,
+        "startPage": 428,
+        "endPage": 434,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 35,
+        "titleEng": "Fatir",
+        "verses": 45,
+        "startPage": 434,
+        "endPage": 440,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 36,
+        "titleEng": "Yasin",
+        "verses": 83,
+        "startPage": 440,
+        "endPage": 445,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 23",
+    "startPage": 442,
+    "endPage": 461,
+    "surahs": [
+      {
+        "surahNo": 37,
+        "titleEng": "As- Saffat",
+        "verses": 182,
+        "startPage": 446,
+        "endPage": 452,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 38,
+        "titleEng": "Sad",
+        "verses": 88,
+        "startPage": 453,
+        "endPage": 458,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 39,
+        "titleEng": "Az- Zumar",
+        "verses": 75,
+        "startPage": 458,
+        "endPage": 467,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 24",
+    "startPage": 462,
+    "endPage": 481,
+    "surahs": [
+      {
+        "surahNo": 40,
+        "titleEng": "Ghafir",
+        "verses": 85,
+        "startPage": 467,
+        "endPage": 476,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 41,
+        "titleEng": "Fussilat",
+        "verses": 54,
+        "startPage": 477,
+        "endPage": 482,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 25",
+    "startPage": 482,
+    "endPage": 501,
+    "surahs": [
+      {
+        "surahNo": 42,
+        "titleEng": "Ash- Shuraa",
+        "verses": 53,
+        "startPage": 483,
+        "endPage": 489,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 43,
+        "titleEng": "Az- Zukhruf",
+        "verses": 89,
+        "startPage": 489,
+        "endPage": 495,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 44,
+        "titleEng": "Ad- Dukhan",
+        "verses": 59,
+        "startPage": 496,
+        "endPage": 498,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 45,
+        "titleEng": "Al- Jathiyah",
+        "verses": 37,
+        "startPage": 499,
+        "endPage": 502,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 26",
+    "startPage": 502,
+    "endPage": 521,
+    "surahs": [
+      {
+        "surahNo": 46,
+        "titleEng": "Al- Ahqaf",
+        "verses": 35,
+        "startPage": 502,
+        "endPage": 506,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 47,
+        "titleEng": "Muhammad",
+        "verses": 38,
+        "startPage": 507,
+        "endPage": 510,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 48,
+        "titleEng": "Al- Fath",
+        "verses": 29,
+        "startPage": 511,
+        "endPage": 515,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 49,
+        "titleEng": "Al- Hujurat",
+        "verses": 18,
+        "startPage": 515,
+        "endPage": 517,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 50,
+        "titleEng": "Qaf",
+        "verses": 45,
+        "startPage": 518,
+        "endPage": 520,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 51,
+        "titleEng": "Adh- Dhariyat",
+        "verses": 60,
+        "startPage": 520,
+        "endPage": 523,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 27",
+    "startPage": 522,
+    "endPage": 541,
+    "surahs": [
+      {
+        "surahNo": 52,
+        "titleEng": "At- Tur",
+        "verses": 49,
+        "startPage": 523,
+        "endPage": 525,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 53,
+        "titleEng": "An- Najm",
+        "verses": 62,
+        "startPage": 526,
+        "endPage": 528,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 54,
+        "titleEng": "Al- Qamar",
+        "verses": 55,
+        "startPage": 528,
+        "endPage": 531,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 55,
+        "titleEng": "Ar- Rahman",
+        "verses": 78,
+        "startPage": 531,
+        "endPage": 534,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 56,
+        "titleEng": "Al- Waqi'ah",
+        "verses": 96,
+        "startPage": 534,
+        "endPage": 537,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 57,
+        "titleEng": "Al- Hadid",
+        "verses": 29,
+        "startPage": 537,
+        "endPage": 541,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 28",
+    "startPage": 542,
+    "endPage": 561,
+    "surahs": [
+      {
+        "surahNo": 58,
+        "titleEng": "Al- Mujadila",
+        "verses": 22,
+        "startPage": 542,
+        "endPage": 545,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 59,
+        "titleEng": "Al- Hashr",
+        "verses": 24,
+        "startPage": 545,
+        "endPage": 548,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 60,
+        "titleEng": "Al- Mumtahanah",
+        "verses": 13,
+        "startPage": 549,
+        "endPage": 551,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 61,
+        "titleEng": "As- Saf",
+        "verses": 14,
+        "startPage": 551,
+        "endPage": 552,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 62,
+        "titleEng": "Al- Jumu'ah",
+        "verses": 11,
+        "startPage": 553,
+        "endPage": 554,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 63,
+        "titleEng": "Al- Munafiqun",
+        "verses": 11,
+        "startPage": 554,
+        "endPage": 555,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 64,
+        "titleEng": "At- Taghabun",
+        "verses": 18,
+        "startPage": 556,
+        "endPage": 557,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 65,
+        "titleEng": "At- Talaq",
+        "verses": 12,
+        "startPage": 558,
+        "endPage": 559,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 66,
+        "titleEng": "At- Tahrim",
+        "verses": 12,
+        "startPage": 560,
+        "endPage": 561,
+        "type": "Madani"
+      }
+    ]
+  },
+  {
+    "title": "Juz 29",
+    "startPage": 562,
+    "endPage": 581,
+    "surahs": [
+      {
+        "surahNo": 67,
+        "titleEng": "Al- Mulk",
+        "verses": 30,
+        "startPage": 562,
+        "endPage": 564,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 68,
+        "titleEng": "Al- Qalam",
+        "verses": 52,
+        "startPage": 564,
+        "endPage": 566,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 69,
+        "titleEng": "Al- Haqqah",
+        "verses": 52,
+        "startPage": 566,
+        "endPage": 568,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 70,
+        "titleEng": "Al- Ma'arij",
+        "verses": 44,
+        "startPage": 568,
+        "endPage": 570,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 71,
+        "titleEng": "Nuh",
+        "verses": 28,
+        "startPage": 570,
+        "endPage": 571,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 72,
+        "titleEng": "Al- Jinn",
+        "verses": 28,
+        "startPage": 572,
+        "endPage": 573,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 73,
+        "titleEng": "Al- Muzzammil",
+        "verses": 20,
+        "startPage": 574,
+        "endPage": 575,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 74,
+        "titleEng": "Al- Muddathir",
+        "verses": 56,
+        "startPage": 575,
+        "endPage": 577,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 75,
+        "titleEng": "Al- Qiyamah",
+        "verses": 40,
+        "startPage": 577,
+        "endPage": 578,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 76,
+        "titleEng": "Al- Insan",
+        "verses": 31,
+        "startPage": 578,
+        "endPage": 580,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 77,
+        "titleEng": "Al- Mursalat",
+        "verses": 50,
+        "startPage": 580,
+        "endPage": 581,
+        "type": "Makki"
+      }
+    ]
+  },
+  {
+    "title": "Juz 30",
+    "startPage": 582,
+    "endPage": 603,
+    "surahs": [
+      {
+        "surahNo": 78,
+        "titleEng": "An- Naba",
+        "verses": 40,
+        "startPage": 582,
+        "endPage": 583,
+        "type": "Makki"
+      },
+
+      {
+        "surahNo": 79,
+        "titleEng": "An- Nazi'at",
+        "verses": 46,
+        "startPage": 583,
+        "endPage": 584,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 80,
+        "titleEng": "'Abasa",
+        "verses": 42,
+        "startPage": 585,
+        "endPage": 585,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 81,
+        "titleEng": "At- Takwir",
+        "verses": 29,
+        "startPage": 586,
+        "endPage": 586,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 82,
+        "titleEng": "Al- Infitar",
+        "verses": 19,
+        "startPage": 587,
+        "endPage": 587,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 83,
+        "titleEng": "Al- Mutaffifin",
+        "verses": 36,
+        "startPage": 587,
+        "endPage": 589,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 84,
+        "titleEng": "Al- Inshiqaq",
+        "verses": 25,
+        "startPage": 589,
+        "endPage": 589,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 85,
+        "titleEng": "Al- Buruj",
+        "verses": 22,
+        "startPage": 590,
+        "endPage": 590,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 86,
+        "titleEng": "At- Tariq",
+        "verses": 17,
+        "startPage": 591,
+        "endPage": 591,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 87,
+        "titleEng": "Al- A'la",
+        "verses": 19,
+        "startPage": 591,
+        "endPage": 592,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 88,
+        "titleEng": "Al- Ghashiyah",
+        "verses": 26,
+        "startPage": 592,
+        "endPage": 592,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 89,
+        "titleEng": "Al- Fajr",
+        "verses": 30,
+        "startPage": 593,
+        "endPage": 594,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 90,
+        "titleEng": "Al- Balad",
+        "verses": 20,
+        "startPage": 594,
+        "endPage": 594,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 91,
+        "titleEng": "Ash- Shams",
+        "verses": 15,
+        "startPage": 595,
+        "endPage": 595,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 92,
+        "titleEng": "Al- Layl",
+        "verses": 21,
+        "startPage": 595,
+        "endPage": 596,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 93,
+        "titleEng": "Ad- Duhaa",
+        "verses": 11,
+        "startPage": 596,
+        "endPage": 596,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 94,
+        "titleEng": "Ash- Sharh",
+        "verses": 8,
+        "startPage": 596,
+        "endPage": 596,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 95,
+        "titleEng": "At- Tin",
+        "verses": 8,
+        "startPage": 597,
+        "endPage": 597,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 96,
+        "titleEng": "Al- 'Alaq",
+        "verses": 19,
+        "startPage": 597,
+        "endPage": 597,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 97,
+        "titleEng": "Al- Qadr",
+        "verses": 5,
+        "startPage": 598,
+        "endPage": 598,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 98,
+        "titleEng": "Al- Bayyinah",
+        "verses": 8,
+        "startPage": 598,
+        "endPage": 599,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 99,
+        "titleEng": "Al- Zalzalaha",
+        "verses": 8,
+        "startPage": 599,
+        "endPage": 599,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 100,
+        "titleEng": "Al- 'Adiyat",
+        "verses": 11,
+        "startPage": 599,
+        "endPage": 600,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 101,
+        "titleEng": "Al- Qari'ah",
+        "verses": 11,
+        "startPage": 600,
+        "endPage": 600,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 102,
+        "titleEng": "At- Takathur",
+        "verses": 8,
+        "startPage": 600,
+        "endPage": 600,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 103,
+        "titleEng": "Al- 'Asr",
+        "verses": 3,
+        "startPage": 601,
+        "endPage": 601,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 104,
+        "titleEng": "Ah- Humazah",
+        "verses": 9,
+        "startPage": 601,
+        "endPage": 601,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 105,
+        "titleEng": "Al- Fil",
+        "verses": 5,
+        "startPage": 601,
+        "endPage": 601,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 106,
+        "titleEng": "Quraysh",
+        "verses": 4,
+        "startPage": 602,
+        "endPage": 602,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 107,
+        "titleEng": "Al- Ma'un",
+        "verses": 7,
+        "startPage": 602,
+        "endPage": 602,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 108,
+        "titleEng": "Al- Kawthar",
+        "verses": 3,
+        "startPage": 602,
+        "endPage": 602,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 109,
+        "titleEng": "Al- Kafirun",
+        "verses": 6,
+        "startPage": 603,
+        "endPage": 603,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 110,
+        "titleEng": "Al- Nasr",
+        "verses": 3,
+        "startPage": 603,
+        "endPage": 603,
+        "type": "Madani"
+      },
+      {
+        "surahNo": 111,
+        "titleEng": "Al- Masad",
+        "verses": 5,
+        "startPage": 603,
+        "endPage": 603,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 112,
+        "titleEng": "Al- Ikhlas",
+        "verses": 4,
+        "startPage": 604,
+        "endPage": 604,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 113,
+        "titleEng": "Al-Falaq",
+        "verses": 5,
+        "startPage": 604,
+        "endPage": 604,
+        "type": "Makki"
+      },
+      {
+        "surahNo": 114,
+        "titleEng": "An-Nas",
+        "verses": 6,
+        "startPage": 604,
+        "endPage": 604,
+        "type": "Makki"
+      }
+    ]
+  }
+]
