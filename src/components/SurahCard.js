@@ -3,10 +3,12 @@ import React from 'react';
 import {useDispatch} from 'react-redux';
 import {scrollToPage} from '../store/slices/pageChangeSlice';
 
-const SurahCard = ({surah}) => {
+const SurahCard = ({surah,navigation}) => {
+  
   const dispatch = useDispatch();
   const handlePress = startPage => {
     dispatch(scrollToPage({startPage: startPage - 1}));
+    navigation.closeDrawer()
   };
   return (
     <TouchableOpacity

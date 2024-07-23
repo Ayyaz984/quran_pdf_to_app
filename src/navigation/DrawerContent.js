@@ -51,7 +51,7 @@ const DrawerContent = props => {
             </View>
             {item?.surahs?.map((surah, indx) => (
               <TouchableOpacity activeOpacity={0.5} key={indx + 2 * 10}>
-                <SurahCard surah={surah} />
+                <SurahCard surah={surah} navigation={props.navigation} />
               </TouchableOpacity>
             ))}
           </>

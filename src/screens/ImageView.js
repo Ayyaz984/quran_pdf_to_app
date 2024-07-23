@@ -2,60 +2,40 @@ import {
   Dimensions,
   Image,
   StyleSheet,
-  Text,
   View,
   VirtualizedList,
 } from 'react-native';
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { images } from '../constants/images';
 import { useDispatch, useSelector } from 'react-redux';
 import { changePage, storeRef } from '../store/slices/pageChangeSlice';
-import Animated, {
-  useSharedValue,
-  useAnimatedStyle,
-  useAnimatedGestureHandler,
-  withSpring,
-} from 'react-native-reanimated';
-import { PinchGesture } from 'react-native-gesture-handler/lib/typescript/handlers/gestures/pinchGesture';
-import { PinchGestureHandler } from 'react-native-gesture-handler';
-import ZoomImage from '../components/ZoomImage';
-import ImageItem from '../components/ZoomImage';
 
 const { width, height } = Dimensions.get('window');
 
 const ImageView = () => {
   const vListRef = useRef();
   const dispatch = useDispatch();
-  const scale = useSharedValue(1);
-
   const state = useSelector(state => state.pageChange);
 
   useEffect(() => {
     dispatch(storeRef({ listRef: vListRef }));
   }, []);
 
-  const pinchHandler = useAnimatedGestureHandler({
-    onActive: event => {
-      scale.value = withSpring(event.scale, { stiffness: 30 });
-    },
-    onEnd: () => {
-      if (scale.value < 1) {
-        scale.value = withSpring(1, { stiffness: 50 });
-      } else {
-        scale.value = withSpring(scale.value, { stiffness: 50 });
-      }
-    },
-  });
 
-  const animatedStyle = useAnimatedStyle(() => {
-    return {
-      transform: [{ scale: scale.value }],
-    };
-  });
-
-  const renderItem = ({ item }) => (
+  const renderItem = ({ item, index }) => (
     <View style={styles.item}>
-      <ImageItem imageUri={item} />
+      {
+        index % 2 == 0 ?
+          <Image source={require('../assets/icons/left_arrow.png')} style={styles.arrow} />
+          :
+          <Image source={require('../assets/icons/right_arrow.png')} style={styles.arrow} />
+
+      }
+      <Image
+        source={item}
+        style={[styles.page]}
+        resizeMode="contain"
+      />
     </View>
   );
 
@@ -85,8 +65,6 @@ const ImageView = () => {
         horizontal
         showsHorizontalScrollIndicator={false}
         initialScrollIndex={0}
-        onScrollBeginDrag={() => console.log('asdfsa')}
-        onScrollEndDrag={() => console.log('end')}
         keyExtractor={(item, index) => index}
         getItem={(data, index) => data[index]}
         getItemCount={data => data.length}
@@ -112,8 +90,13 @@ const styles = StyleSheet.create({
     height: Dimensions.get('window').height,
     objectFit: 'fill',
   },
-  image: {
-    width: width,
-    height: height,
-  },
+  arrow: {
+    position: "absolute",
+    zIndex: 1,
+    top: -2,
+    left: "50%",
+    right: "50%",
+    width: 30,
+    height: 15
+  }
 });
