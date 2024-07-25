@@ -2,6 +2,8 @@ import {
   Dimensions,
   Image,
   StyleSheet,
+  Text,
+  TouchableOpacity,
   View,
   VirtualizedList,
 } from 'react-native';
@@ -12,7 +14,7 @@ import { changePage, storeRef } from '../store/slices/pageChangeSlice';
 
 const { width, height } = Dimensions.get('window');
 
-const ImageView = () => {
+const ImageView = ({ navigation }) => {
   const vListRef = useRef();
   const dispatch = useDispatch();
   const state = useSelector(state => state.pageChange);
@@ -24,11 +26,14 @@ const ImageView = () => {
 
   const renderItem = ({ item, index }) => (
     <View style={styles.item}>
+      <TouchableOpacity style={{ backgroundColor: "#F1EDE5", position: "absolute", zIndex: 1, marginLeft: 15, paddingHorizontal: 5 }} onPress={() => navigation.openDrawer()} activeOpacity={1}>
+        <Image source={require('../assets/icons/menu.png')} style={{ height: 20, width: 20 }} resizeMode='contain' />
+      </TouchableOpacity>
       {
         index % 2 == 0 ?
-          <Image source={require('../assets/icons/left_arrow.png')} style={styles.arrow} />
-          :
           <Image source={require('../assets/icons/right_arrow.png')} style={styles.arrow} />
+          :
+          <Image source={require('../assets/icons/left_arrow.png')} style={styles.arrow} />
 
       }
       <Image
